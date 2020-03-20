@@ -1,3 +1,5 @@
+# As [this PR](https://github.com/leecade/react-native-swiper/pull/1091/files) is not merged yet, it causes the `Swiper` to change index uncontrollably when state is set.
+
 <p align="center">
   <img alt="react-native-swiper" src="http://i.imgur.com/P4cRUgD.png" width="208">
 </p>
